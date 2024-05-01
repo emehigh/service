@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "37287750-629f-4e78-9202-e012b62127c9",
+      "name": "Mihai",
+      "surname": "Paraschiva",
+      "email": "mihaieugen999@gmail.com",
+      "password": "parola",
+      "phoneNumber": "0723038772",
+      "role": "user",
+      "status": "active",
+      "cars": [
+        {
+          "id": "82c3facf-83cd-4d91-abe9-59449603b48a",
+          "marca": "Volkswagen",
+          "model": "Passat",
+          "serieSasiu": "W1541IU545135V4C1TC",
+          "tipMotorizare": "Motorina",
+          "capacitateMotor": "1954",
+          "caiPutere": "188",
+          "problemaMasinii": "Schimb stergatoare",
+          "status": "solved",
+          "date": "2024-04-30T07:30:00.000Z",
+          "feedback": "Stergatoare schimbate. TImp de lucru: 30 de minute. Va asteptam pentru preluarea masinii."
+        },
+        {
+          "id": "e23c4e9d-022e-4799-ae15-e9c139424c92",
+          "marca": "Dacia",
+          "model": "Logan",
+          "serieSasiu": "AZCCC21421FGDSA",
+          "tipMotorizare": "Gaz",
+          "capacitateMotor": "999",
+          "caiPutere": "88",
+          "problemaMasinii": "Schimb anvelope",
+          "status": "scheduled",
+          "date": "2024-04-30T07:30:00.000Z"
+        },
+        {
+          "id": "fe7a71c8-defd-4b64-8eb1-b0578e1a2f09",
+          "marca": "Mercedes Benz",
+          "model": "C63 AMG",
+          "serieSasiu": "ZFADW532451315421",
+          "tipMotorizare": "Benzina 2984",
+          "capacitateMotor": "999",
+          "caiPutere": "350",
+          "problemaMasinii": "Schimb curea distributie",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "2ac1330b-84e6-4a0d-950d-ceab31f9fe49",
+      "name": "Client",
+      "surname": "Nou",
+      "email": "clientnou@firmanoua.com",
+      "password": "parola",
+      "phoneNumber": "0723444123",
+      "role": "user",
+      "status": "active",
+      "cars": [
+        {
+          "id": "d8e34a50-177a-4340-8935-83bcf081e875",
+          "marca": "Range Rover",
+          "model": "Vogue",
+          "serieSasiu": "EWTWTBW532521",
+          "tipMotorizare": "Benzina",
+          "capacitateMotor": "3200",
+          "caiPutere": "322",
+          "problemaMasinii": "Inlocuire parbriz",
+          "status": "scheduled",
+          "date": "2024-05-02T06:00:00.000Z"
+        },
+        {
+          "id": "73de1f35-6445-425f-bee0-bff65bb9a34d",
+          "marca": "Toyota",
+          "model": "Yaris",
+          "serieSasiu": "ERWQ5342515REWQ5342",
+          "tipMotorizare": "Motorina",
+          "capacitateMotor": "832",
+          "caiPutere": "75",
+          "problemaMasinii": "Bataie in timpul mersului dinspre motor",
+          "status": "active"
+        },
+        {
+          "id": "397b8571-931e-435e-a2e1-5cf792bd3f9b",
+          "marca": "BMW",
+          "model": "M4",
+          "serieSasiu": "W53251346TR63E432",
+          "tipMotorizare": "Benzina",
+          "capacitateMotor": "1984",
+          "caiPutere": "233",
+          "problemaMasinii": "Lipsa fluid de semnalizare",
+          "status": "scheduled",
+          "date": "2024-05-03T10:30:00.000Z"
+        }
+      ]
+    }
+  ]
+}
